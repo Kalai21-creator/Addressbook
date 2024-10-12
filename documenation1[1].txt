@@ -1,0 +1,97 @@
+  // Documentation Section  //
+   NAME: KALAIVANAN D
+  DATE: 16/09/2024
+  DESCRIPTION: AddressBook, the operation in AddressBook project.
+ 
+Address Book Menu
+1.Create Contact
+2.Search Contact
+3.Edit Contact
+4.Delete Contact
+5.List All Contacts
+6.Save Contacts
+7.Exit
+
+Sample Input and Output:
+
+1. Create Contact
+Enter your choice: 1
+Enter the name:
+kalai
+Enter the phone number:
+8765432345
+Enter the E-mail :
+kalai@gmail.com
+
+
+2. Search Contact
+Enter your choice: 2
+Select search option:
+1. Search by Name
+2. Search by Mobile Number
+3. Search by Email
+Enter your choice: 1
+Enter the name of the contact to search: kalai
+
+Contact found:
+Name: kalai
+Mobile No: 8765678943
+Mail id: Kalai@k.com
+
+
+3. Edit Contact
+
+Enter the option to edit:
+1. Name
+2. Mobile No
+3. Email
+
+Enter your choice: 3
+Enter the option to edit:
+1.Name:
+2.Mobile no:
+3.Email id:
+1
+Enter the Name to Edit:
+kalai
+Enter the New Name:
+kalaivanan
+Contact updated successfully.
+
+4. Delete Contact
+
+Enter your choice: 4
+Enter the option to delete:
+1. Name
+1.Name:
+1
+Enter the name to delete:
+kalai
+Contact with the name 'kalai' not found.
+
+again to call correct name :
+1
+Enter the name to delete:
+kalaivanan
+Contact with the name 'kalaivanan' has been deleted.
+
+
+5. List All Contacts
+Name: Ratan Tata
+Mobile No: 9445677234
+Mail id: Tata@iron.com
+
+Name: Pichai
+Mobile No: 7789345218
+Mail id: pichai@gmail.com
+
+Name: vijay
+Mobile No: 5666777344
+Mail id: vijay@cm.com
+
+
+6. Save Contacts
+
+Enter your choice: 6
+Contacts are successfully saved...
+
