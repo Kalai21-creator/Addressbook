@@ -96,36 +96,5 @@ gcc -o address_book address_book.c
 
 5. Save and exit:
    - Select the "Save" option and confirm exit.
-
----
-
-## Git Repository Setup
-### README Template
-```markdown
-# Address Book Project
-
-## Description
-A console-based C application to manage contact information including names, phone numbers, and email addresses.
-
-## Features
-- Add, search, edit, delete contacts
-- Save and list all contacts
-
-## Compilation
-```bash
-gcc -o address_book address_book.c
-```
-
-## Usage
-```bash
-./address_book
-```
-
-## Author
-[Your Name]
-```
-
----
-
 This project will help you strengthen your understanding of core C programming concepts and their application to real-world use cases. Happy coding!
 
